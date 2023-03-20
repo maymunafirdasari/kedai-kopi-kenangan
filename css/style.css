@@ -11,7 +11,6 @@
   border: none;
   text-decoration: none;
 }
-
 html {
   scroll-behavior: smooth;
 }
@@ -90,7 +89,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('kopi\ pahit.jpg');
+  background-image: url('biji\ kopi.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -177,7 +176,7 @@ body {
 }
 
 .about .row .about-img img {
-  width: 100%;
+  width: 95%;
 
 }
 
@@ -228,7 +227,7 @@ body {
 
 .menu .row .menu-card img {
   border-radius: 50%;
-  width: 80;
+  width: 75%;
 }
 
 .menu .row .menu-card .menu-card-title {
